@@ -24,6 +24,7 @@
   * Распознование класса автомобиля (Cars Dataset, Vehicle Detection, Attributes Annotation) 
     * https://arxiv.org/pdf/1607.04564v3.pdf
     * Cars Dataset http://ai.stanford.edu/~jkrause/cars/car_dataset.html
+    * Detect OpenCV https://www.youtube.com/watch?v=Y3ac5rFMNZ0
  
 
 
