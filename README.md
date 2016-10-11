@@ -5,9 +5,10 @@
 
 * Deep Networks для видео классификации (общая модель)
 * Deep Networks для поиска анализа интересности картинки
-* Deep Networks для описания содержания видео (Video to Language)
+* Deep Networks для описания содержания видео (Video to Language, Video to Text)
  * https://arxiv.org/pdf/1608.07068v2.pdf
  * http://ms-multimedia-challenge.com/challenge#video
+ * https://vsubhashini.github.io/s2vt.html
  
 * Deep Networks для детектирования и распознования лиц на видео
 * Deep Networks для сегментации видео по движению в кадре
